@@ -1,1 +1,1 @@
-# SchoolLiffe
+# SchoolLife
